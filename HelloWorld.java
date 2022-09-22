@@ -4,4 +4,4 @@ public class HelloWorld
     {
         System.out.println("Hello World!");
     } // end of method main   
-} // end of class HelloWorld
+} // end of class Hello
